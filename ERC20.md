@@ -4,7 +4,7 @@
 
 **ERC-20** 是一个 [以太坊](https://zh.wikipedia.org/wiki/以太坊) [区块链](https://zh.wikipedia.org/wiki/块链) 上的 [智能合约](https://zh.wikipedia.org/wiki/智能合约) 的一种协议标准。它的提出来自于EIP20
 
-![image-20211126123331870](../img/image-20211126123331870.png)
+![image-20211126123331870](../image/image-20211126123331870.png)
 
 ## 规范
 
