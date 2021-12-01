@@ -6,10 +6,13 @@
 
 ## ERC20标准
 [参考链接1](https://ethereum.org/zh/developers/docs/standards/tokens/erc-20/)
+
 [参考链接2](https://learnblockchain.cn/docs/eips/eip-20.html)
+
 [参考链接3](https://docs.openzeppelin.com/contracts/4.x/erc20)
 
 [代码1](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20.sol)
+
 [代码2](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/9b3710465583284b8c4c5d2245749246bb2e0094/contracts/token/ERC20)
 
 
