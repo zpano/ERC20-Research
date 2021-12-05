@@ -18,11 +18,11 @@
 
 
 ## 安全问题
-1. 整数溢出
-2. 权限控制
-3. 编码不规范
-4. 函数构造
-5. 加密算法
+1. [整数溢出](https://github.com/zpano/ERC20-Research/tree/main/整数溢出)
+2. [权限控制](https://github.com/zpano/ERC20-Research/tree/main/权限控制)
+3. [编码不规范](https://github.com/zpano/ERC20-Research/tree/main/编码不规范)
+4. [函数构造](https://github.com/zpano/ERC20-Research/tree/main/函数构造)
+5. [加密算法](https://github.com/zpano/ERC20-Research/tree/main/加密算法)
 
 ## 自动化审计
 
