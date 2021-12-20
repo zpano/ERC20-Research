@@ -25,6 +25,11 @@
 5. [加密算法](https://github.com/zpano/ERC20-Research/tree/main/加密算法)
 
 ## 自动化审计
+contractFuzzer
+slither
+myth
+
+
 
 ## 智能合约爬虫
 通过`https://etherscan.com/tokens`获取排名靠前的token，再通过`https://api.etherscan.io/api`获取对应地址的合约源码并储存
